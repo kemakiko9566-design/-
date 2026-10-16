@@ -1,0 +1,85 @@
+{
+  "verification": "local only; no platform approval implied",
+  "assets": [
+    {
+      "file": "douyin-chat-bubble/assets/red.png",
+      "size": [
+        198,
+        162
+      ],
+      "bytes": 25531,
+      "text_box": [
+        37,
+        54,
+        155,
+        126
+      ],
+      "contrast_min": 7.869,
+      "contrast_p01": 8.355,
+      "declared_inside_padding_LTRB": [
+        27,
+        21,
+        25,
+        21
+      ],
+      "alpha_scans": [
+        {
+          "alpha_threshold": 128,
+          "vertical_max": 30,
+          "horizontal_max": 15,
+          "conservative_local_pass": true
+        },
+        {
+          "alpha_threshold": 255,
+          "vertical_max": 31,
+          "horizontal_max": 15,
+          "conservative_local_pass": true
+        }
+      ],
+      "fixed_corners_preserved": true,
+      "errors": [],
+      "warnings": [],
+      "local_pass": true
+    },
+    {
+      "file": "douyin-chat-bubble/assets/cream.png",
+      "size": [
+        198,
+        162
+      ],
+      "bytes": 23033,
+      "text_box": [
+        37,
+        54,
+        155,
+        126
+      ],
+      "contrast_min": 13.221,
+      "contrast_p01": 13.437,
+      "declared_inside_padding_LTRB": [
+        27,
+        21,
+        33,
+        21
+      ],
+      "alpha_scans": [
+        {
+          "alpha_threshold": 128,
+          "vertical_max": 30,
+          "horizontal_max": 7,
+          "conservative_local_pass": true
+        },
+        {
+          "alpha_threshold": 255,
+          "vertical_max": 31,
+          "horizontal_max": 8,
+          "conservative_local_pass": true
+        }
+      ],
+      "fixed_corners_preserved": true,
+      "errors": [],
+      "warnings": [],
+      "local_pass": true
+    }
+  ]
+}

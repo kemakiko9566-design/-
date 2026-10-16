@@ -1,0 +1,4 @@
+interface:
+  display_name: "抖音气泡制作规范"
+  short_description: "制作透明气泡素材，规划正文和点九切线，验证长短消息与深浅背景"
+  default_prompt: "使用 $douyin-chat-bubble 按官方规范制作或调整我的抖音聊天气泡，并交付 PNG、切线坐标和伸缩预览。"

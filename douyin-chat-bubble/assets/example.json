@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "units": "source pixels; 3x resource scale",
+  "source_size": [
+    198,
+    162
+  ],
+  "cuts": {
+    "left": 72,
+    "top": 84,
+    "right": 144,
+    "bottom": 108
+  },
+  "text_box": [
+    37,
+    54,
+    155,
+    126
+  ],
+  "protected_box": [
+    60,
+    54,
+    132,
+    126
+  ],
+  "font_size": 51,
+  "panel_bounds": [
+    7,
+    30,
+    191,
+    150
+  ],
+  "verification": "Local preview verified; platform preview not performed.",
+  "artworks": [
+    {
+      "id": "red",
+      "label": "红色睡猫",
+      "panel_box": [
+        7,
+        30,
+        183,
+        150
+      ],
+      "border_width": 3,
+      "text_color": "#FFFFFF",
+      "file": "red.png"
+    },
+    {
+      "id": "cream",
+      "label": "米白黑猫",
+      "panel_box": [
+        7,
+        30,
+        191,
+        150
+      ],
+      "border_width": 3,
+      "text_color": "#24201A",
+      "file": "cream.png"
+    }
+  ]
+}
